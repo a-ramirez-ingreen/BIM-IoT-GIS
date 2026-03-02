@@ -1,8 +1,8 @@
 # BIM-IoT-GIS Viewer
 
-**Visor premium para Gemelos Digitales: Transforma modelos BIM (IFC) en GIS (GeoJSON) integrando sensores IoT y semántica OWL. Genera archivos compatibles con INSPIRE GML.**
+**Herramienta de integración para Gemelos Digitales: Transforma modelos BIM (IFC) en GIS (GeoJSON) integrando sensores IoT y semántica OWL. Genera archivos compatibles con INSPIRE GML.**
 
-Esta herramienta permite la visualización y conversión avanzada de modelos de construcción a entornos territoriales con inteligencia de datos.
+Esta aplicación facilita la visualización y conversión técnica de modelos de construcción a entornos territoriales interoperables.
 
 ## 🚀 Instalación y Uso Rápido (Windows)
 
